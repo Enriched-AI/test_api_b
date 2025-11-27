@@ -5,3 +5,4 @@ requests
 nltk
 rake-nltk
 locationtagger
+lxml_html_clean
