@@ -33,8 +33,6 @@ class ResponseStorage(BaseModel):
     user_input: str
     model_response: str
 
-WEATHER_API = "2e7671e3c64f6e3c9209a6ac52b978eb"
-
 
 async def prompt_sender(user_input: str):
     try:
