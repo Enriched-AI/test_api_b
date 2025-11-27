@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+python-dotenv
+asyncio
+nltk
+locationtagger
+rake-nltk
+pydantic
+python-multipart
