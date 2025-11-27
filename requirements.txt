@@ -1,10 +1,7 @@
 fastapi
 uvicorn
-requests
 python-dotenv
-asyncio
+requests
 nltk
-locationtagger
 rake-nltk
-pydantic
-python-multipart
+locationtagger
