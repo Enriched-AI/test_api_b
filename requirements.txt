@@ -6,3 +6,7 @@ nltk
 rake-nltk
 locationtagger
 lxml_html_clean
+aiohttp
+pydantic
+geopy
+spacy
